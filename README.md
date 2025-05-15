@@ -14,6 +14,9 @@ We ingest sales data from an external HTTP source into a **Lakehouse**, process 
 
 ##  Tools & Technologies
 
+![image](https://github.com/user-attachments/assets/9ff6d3a6-e754-4c00-8e56-699d801412cf)
+
+
 - [Microsoft Fabric](https://app.fabric.microsoft.com/)
 - Apache Spark (via Fabric Notebooks)
 - Pipelines (Copy Data, Delete Data, Notebook Activities)
